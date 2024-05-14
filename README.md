@@ -5,7 +5,6 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 ## Table of contents
 
 - [Overview](#overview)
-- [The challenge](#the-challenge)
 - [Screenshot](#screenshot)
 - [Links](#links)
 - [My process](#my-process)
@@ -14,16 +13,16 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 - [Continued development](#continued-development)
 - [Useful resources](#useful-resources)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
 
 ## Overview
 
 ### Screenshot
 
+![Recipe page](https://github.com/Cjsrodrigo/Recipe-Page/assets/154842867/e19be0b3-8cb4-4f72-a1e2-4261007fdbe0)
+
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Libe site](https://your-live-site-url.com)
+- Solution URL: [Solution URL](https://github.com/Cjsrodrigo/Recipe-Page)
 
 ## My process
 
